@@ -24,10 +24,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Siyuan Wang"
-  pronouns         : "he/him"# example: "she/her"  
+  pronouns         : "He/Him"# example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Beijing"
-  employer         : "Red Brick University"
+  employer         : #"Red Brick University"
   uri              : # URL
   email            : "wangsy1999@outlook.com" 
 
