@@ -22,10 +22,10 @@ repository               : "wangsy1999/wangsy1999.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "65281226.jpeg"
   name             : "Siyuan Wang"
   pronouns         : "He/Him"# example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "A perspective Ph.D. student" # Short biography for the left-hand sidebar"
   location         : "Beijing"
   employer         : #"Red Brick University"
   uri              : # URL
