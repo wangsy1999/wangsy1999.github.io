@@ -12,8 +12,8 @@ I recieved a Master of Science degree in Computer Engineering at New York Univer
 ## News
 
 - **2024-05**: Graduated from New York University, with a GPA of 4.0
-- **2023-01**: Started to work as a head teaching assitant at ECE-GY 6303 Probability and Stochastic Process, Spring 2024
-- **2023-01**: Started to work as a teaching assitant at ECE-GY 6303 Probability and Stochastic Process, Spring 2023
+- **2023-01**: Started to work as a head teaching assistant at ECE-GY 6303 Probability and Stochastic Process, Spring 2024
+- **2023-01**: Started to work as a teaching assistant at ECE-GY 6303 Probability and Stochastic Process, Spring 2023
 
 
 <!--
