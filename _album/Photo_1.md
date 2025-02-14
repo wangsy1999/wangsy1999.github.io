@@ -3,6 +3,7 @@ title: "Cellist At Grand Central Terminal"
 excerpt: "<img src="/images/photo/DSC01599-已增强-降噪.jpg" width="600" height="auto">"
 collection: album
 ---
+
 ![这是图片](/images/photo/DSC01599-已增强-降噪.jpg "Cellist At Grand Central Terminal")
 ---
 Brief introduction of the musician from MTA: [**Erik Robert Jacobson**](https://www.mta.info/agency/arts-design/collection/erik-robert-jacobson)  
