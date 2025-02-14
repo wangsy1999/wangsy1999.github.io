@@ -1,5 +1,6 @@
 ---
 title: "Cellist At Grand Central Terminal"
+date: 2024-05-30
 excerpt: "<img src='/images/photo/DSC01599-已增强-降噪.jpg' width='500' height='auto'>"
 collection: album
 ---
