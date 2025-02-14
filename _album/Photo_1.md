@@ -1,6 +1,6 @@
 ---
 title: "Cellist At Grand Central Terminal"
-excerpt: "<img src="/images/photo/DSC01599-已增强-降噪.jpg" width="600" height="auto">"
+excerpt: "<img src='/images/photo/DSC01599-已增强-降噪.jpg' width='600' height='auto'>"
 collection: album
 ---
 
