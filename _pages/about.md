@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I recieved a Master of Science degree in Computer Engineering at New York University(NYU). Currently I am applying for a Ph.D. position.
+I recieved a Master of Science degree in Computer Engineering at New York University(NYU). Currently I am applying for a Ph.D. position. I love take pictures. So, please go to my album to sss them and you can leave a comment(function is still developing).
 
 ## News
 
