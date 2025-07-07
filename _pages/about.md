@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I recieved a Master of Science degree in Computer Engineering at New York University(NYU). Currently I am applying for a Ph.D. position. I love take pictures. So, please go to my album to sss them and you can leave a comment(function is still developing).
+I recieved a Master of Science degree in Computer Engineering at New York University(NYU). Currently I am a Ph.D. student. I love photography.
 
 ## News
-
+- **2025-07**: Recevied the official PhD admission of Beijing Institute of Technology. Go BHR!
 - **2024-05**: Graduated from New York University, with a GPA of 4.0
 - **2023-01**: Started to work as a head teaching assistant at ECE-GY 6303 Probability and Stochastic Process, Spring 2024
 - **2023-01**: Started to work as a teaching assistant at ECE-GY 6303 Probability and Stochastic Process, Spring 2023
