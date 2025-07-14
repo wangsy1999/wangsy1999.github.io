@@ -11,9 +11,7 @@ redirect_from:
 
 Education
 ======
-<!--
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
- -->
+* Ph.D. in Mechanical Engineering, Beijing Institute of Technology, 2029 (expected)
 * M.S. in Computer Engineering, New York University, 2024
 * B.Eng. in Electrical Engineering and Automation, Tianjin University, 2022
 
