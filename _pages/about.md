@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I recieved a Master of Science degree in Computer Engineering at New York University(NYU). Currently I am a Ph.D. student. I love photography.
+I received my Master of Science degree in Computer Engineering from New York University (NYU). Currently, I am pursuing a Ph.D. in Mechanical Engineering at Beijing Institute of Technology (BIT), specializing in humanoid robot control. In my spare time, I enjoy photography.
 
 ## News
-- **2025-07**: Recevied the official PhD admission of Beijing Institute of Technology. Go BHR!
+- **2025-07**: Recevied the official PhD admission of Beijing Institute of Technology (BIT). Go BHR!
 - **2024-05**: Graduated from New York University, with a GPA of 4.0
 - **2023-01**: Started to work as a head teaching assistant at ECE-GY 6303 Probability and Stochastic Process, Spring 2024
 - **2023-01**: Started to work as a teaching assistant at ECE-GY 6303 Probability and Stochastic Process, Spring 2023
