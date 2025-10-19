@@ -10,6 +10,7 @@ redirect_from:
 I received my Master of Science degree in Computer Engineering from New York University (NYU). Currently, I am pursuing a Ph.D. in Mechanical Engineering at Beijing Institute of Technology (BIT), specializing in humanoid robot control. In my spare time, I enjoy photography.
 
 ## News
+- **2025-10**: Serviced the IEEE International Conference on Cyborg and Bionic Systems (IEEE CBS 2025).
 - **2025-07**: Recevied the official PhD admission of Beijing Institute of Technology (BIT). Go BHR!
 - **2024-05**: Graduated from New York University, with a GPA of 4.0
 - **2023-01**: Started to work as a head teaching assistant at ECE-GY 6303 Probability and Stochastic Process, Spring 2024
