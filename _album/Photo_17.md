@@ -1,8 +1,8 @@
 ---
-title: "DSC01587"
+title: "Grand Central Terminal Clock"
 date: 2024-05-09
 excerpt: "<img src='/images/photo/DSC01587.jpg' width='500' height='auto'>"
 collection: album
 ---
 
-![DSC01587](/images/photo/DSC01587.jpg "DSC01587")
+![Grand Central Terminal Clock](/images/photo/DSC01587.jpg "Grand Central Terminal Clock")

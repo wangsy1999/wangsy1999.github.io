@@ -1,8 +1,8 @@
 ---
-title: "DSC01997"
+title: "Seagull over Ellis Island"
 date: 2024-06-13
 excerpt: "<img src='/images/photo/DSC01997.jpg' width='500' height='auto'>"
 collection: album
 ---
 
-![DSC01997](/images/photo/DSC01997.jpg "DSC01997")
+![Seagull over Ellis Island](/images/photo/DSC01997.jpg "Seagull over Ellis Island")

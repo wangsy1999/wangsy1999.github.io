@@ -1,8 +1,8 @@
 ---
-title: "DSC01637"
+title: "Domino Sugar Refinery"
 date: 2024-05-18
 excerpt: "<img src='/images/photo/DSC01637.jpg' width='500' height='auto'>"
 collection: album
 ---
 
-![DSC01637](/images/photo/DSC01637.jpg "DSC01637")
+![Domino Sugar Refinery](/images/photo/DSC01637.jpg "Domino Sugar Refinery")

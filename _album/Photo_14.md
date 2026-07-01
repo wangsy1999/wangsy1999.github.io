@@ -1,8 +1,8 @@
 ---
-title: "DSC01554"
+title: "Grand Central Terminal Facade"
 date: 2024-05-06
 excerpt: "<img src='/images/photo/DSC01554.jpg' width='500' height='auto'>"
 collection: album
 ---
 
-![DSC01554](/images/photo/DSC01554.jpg "DSC01554")
+![Grand Central Terminal Facade](/images/photo/DSC01554.jpg "Grand Central Terminal Facade")

@@ -1,11 +1,11 @@
 ---
-title: "Cellist At Grand Central Terminal"
+title: "Cellist at Grand Central Terminal"
 date: 2024-05-30
 excerpt: "<img src='/images/photo/DSC01599-已增强-降噪.jpg' width='500' height='auto'>"
 collection: album
 ---
 
-![这是图片](/images/photo/DSC01599-已增强-降噪.jpg "Cellist At Grand Central Terminal")  
+![Cellist at Grand Central Terminal](/images/photo/DSC01599-已增强-降噪.jpg "Cellist at Grand Central Terminal")  
 <br>
 
 Brief introduction of the musician from MTA: [**Erik Robert Jacobson**](https://www.mta.info/agency/arts-design/collection/erik-robert-jacobson)  

@@ -1,8 +1,8 @@
 ---
-title: "DSC01881"
+title: "One World Trade Center at Night"
 date: 2024-06-05
 excerpt: "<img src='/images/photo/DSC01881.jpg' width='500' height='auto'>"
 collection: album
 ---
 
-![DSC01881](/images/photo/DSC01881.jpg "DSC01881")
+![One World Trade Center at Night](/images/photo/DSC01881.jpg "One World Trade Center at Night")

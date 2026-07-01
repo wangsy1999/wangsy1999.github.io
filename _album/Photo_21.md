@@ -1,8 +1,8 @@
 ---
-title: "DSC01607"
+title: "United Nations Headquarters"
 date: 2024-05-13
 excerpt: "<img src='/images/photo/DSC01607.jpg' width='500' height='auto'>"
 collection: album
 ---
 
-![DSC01607](/images/photo/DSC01607.jpg "DSC01607")
+![United Nations Headquarters](/images/photo/DSC01607.jpg "United Nations Headquarters")

@@ -1,8 +1,8 @@
 ---
-title: "DSC02027"
+title: "Verrazzano-Narrows Bridge"
 date: 2024-06-14
 excerpt: "<img src='/images/photo/DSC02027.jpg' width='500' height='auto'>"
 collection: album
 ---
 
-![DSC02027](/images/photo/DSC02027.jpg "DSC02027")
+![Verrazzano-Narrows Bridge](/images/photo/DSC02027.jpg "Verrazzano-Narrows Bridge")

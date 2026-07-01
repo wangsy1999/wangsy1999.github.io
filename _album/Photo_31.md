@@ -1,8 +1,8 @@
 ---
-title: "DSC01789"
+title: "Lower Manhattan from the Marina"
 date: 2024-05-23
 excerpt: "<img src='/images/photo/DSC01789.jpg' width='500' height='auto'>"
 collection: album
 ---
 
-![DSC01789](/images/photo/DSC01789.jpg "DSC01789")
+![Lower Manhattan from the Marina](/images/photo/DSC01789.jpg "Lower Manhattan from the Marina")

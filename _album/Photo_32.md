@@ -1,8 +1,8 @@
 ---
-title: "DSC01793"
+title: "Waterfront Barbecue at Dusk"
 date: 2024-05-24
 excerpt: "<img src='/images/photo/DSC01793.jpg' width='500' height='auto'>"
 collection: album
 ---
 
-![DSC01793](/images/photo/DSC01793.jpg "DSC01793")
+![Waterfront Barbecue at Dusk](/images/photo/DSC01793.jpg "Waterfront Barbecue at Dusk")

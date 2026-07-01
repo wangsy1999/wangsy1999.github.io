@@ -1,8 +1,8 @@
 ---
-title: "DSC01862"
+title: "Late-Night Halal Food Cart"
 date: 2024-06-03
 excerpt: "<img src='/images/photo/DSC01862.jpg' width='500' height='auto'>"
 collection: album
 ---
 
-![DSC01862](/images/photo/DSC01862.jpg "DSC01862")
+![Late-Night Halal Food Cart](/images/photo/DSC01862.jpg "Late-Night Halal Food Cart")
