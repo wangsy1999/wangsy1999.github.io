@@ -17,25 +17,32 @@ Education
 
 Work experience
 ======
-* Spring 2024: Head Course Assistant
+* Spring 2024: Head Teaching Assistant
   * New York University
-  * Duties includes: 
+  * Course: ECE-GY 6303 Probability and Stochastic Processes
+  * Responsibilities included coordinating teaching assistants, holding office hours, grading assignments and exams, and supporting lecture and recitation sessions
   * Supervisor: Professor Xiao-Kang Chen
 
-* Spring 2023: Course Assistant
+* Spring 2023: Teaching Assistant
   * New York University
-  * Duties includes: 
+  * Course: ECE-GY 6303 Probability and Stochastic Processes
+  * Responsibilities included holding office hours, grading assignments and exams, and supporting recitation sessions
   * Supervisor: Professor Xiao-Kang Chen
 
+Service
+======
+* October 2025: Conference Volunteer
+  * IEEE International Conference on Cyborg and Bionic Systems (IEEE CBS 2025)
+  * Provided on-site conference support
 
 Skills
 ======
 * Reinforcement Learning
-* Program language
+* Programming Languages
   * Python
   * Java
 * Embedded Systems
-* Power Electronic System Design
+* Power Electronics System Design
 
 <!--
 Publications
